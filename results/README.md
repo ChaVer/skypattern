@@ -1,0 +1,1 @@
+This folder will contain all the skypattern files after running the experiments.
