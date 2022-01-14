@@ -1,0 +1,8 @@
+{ heat3_under } => { GO:0005737 GO:0005840 }, sup=104 conf=0.79 lift=9.23
+{ heat3_under } => { GO:0005737 }, sup=122 conf=0.92 lift=1.44
+{ heat3_under } => { PATH:03010 }, sup=97 conf=0.73 lift=13.73
+{ heat3_under ndt80-1_under } => { PATH:03010 }, sup=66 conf=0.9 lift=16.93
+{ heat3_under } => { GO:0005737 GO:0005840 GO:0006412 }, sup=103 conf=0.78 lift=9.61
+{ heat3_under } => { GO:0005737 GO:0005840 GO:0006412 PR:FHL1 }, sup=85 conf=0.64 lift=14.6
+{ heat3_under } => { GO:0005737 GO:0006412 }, sup=109 conf=0.83 lift=7.1
+{ heat3_under } => { GO:0006412 }, sup=110 conf=0.83 lift=6.93

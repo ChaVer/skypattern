@@ -1,0 +1,5 @@
+{ GO:0005737 } => { heat3_under }, sup=122 conf=0.08 lift=1.49
+{ PATH:03010 } => { heat3_under }, sup=97 conf=0.74 lift=13.81
+{ PATH:03010 } => { heat3_under ndt80-1_under }, sup=66 conf=0.5 lift=16.88
+{ GO:0005737 GO:0006412 } => { heat3_under }, sup=109 conf=0.38 lift=7.09
+{ GO:0006412 } => { heat3_under }, sup=110 conf=0.37 lift=6.91
